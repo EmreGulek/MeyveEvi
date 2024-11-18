@@ -1,0 +1,22 @@
+
+.navbar-brand-dark {
+    color: darkgreen;
+}
+
+.nav-link {
+    color: lightgreen;
+}
+
+.nav-link-light:hover {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: darkgreen ;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    font-weight: bold;
+    color: darkgreen;
+}
